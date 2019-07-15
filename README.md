@@ -1,1 +1,1 @@
-# cursoc-
+# curso c# de platzi
